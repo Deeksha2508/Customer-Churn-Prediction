@@ -16,7 +16,7 @@ Customer churn — when a customer stops using a service — is a major business
 customer-churn-prediction/
 │
 ├── data/
-│   └── WA_Fn-UseC_-Telco-Customer-Churn.csv   # Raw dataset
+│   └── customer.csv   # Raw dataset
 │
 ├── notebooks/
 │   └── churn_prediction.ipynb                  # Main Colab notebook
@@ -234,6 +234,4 @@ The project covers the complete data science workflow — from raw data ingestio
 
 ---
 
-## 📄 License
 
-This project is open-source and available under the [MIT License](LICENSE).
